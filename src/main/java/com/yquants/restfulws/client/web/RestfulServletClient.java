@@ -13,7 +13,6 @@ import java.net.URI;
  * Created by Wei on 2017/5/12.
  */
 @Component
-@RestController
 public class RestfulServletClient {
 
     @RequestMapping("/index")
